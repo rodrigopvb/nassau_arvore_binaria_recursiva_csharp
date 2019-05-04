@@ -1,0 +1,7 @@
+C:\Users\rodrigo\source\repos\Arvore_Recursiva\Arvore_Recursiva\bin\Debug\Arvore_Recursiva.exe.config
+C:\Users\rodrigo\source\repos\Arvore_Recursiva\Arvore_Recursiva\bin\Debug\Arvore_Recursiva.exe
+C:\Users\rodrigo\source\repos\Arvore_Recursiva\Arvore_Recursiva\bin\Debug\Arvore_Recursiva.pdb
+C:\Users\rodrigo\source\repos\Arvore_Recursiva\Arvore_Recursiva\obj\Debug\Arvore_Recursiva.csprojAssemblyReference.cache
+C:\Users\rodrigo\source\repos\Arvore_Recursiva\Arvore_Recursiva\obj\Debug\Arvore_Recursiva.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo\source\repos\Arvore_Recursiva\Arvore_Recursiva\obj\Debug\Arvore_Recursiva.exe
+C:\Users\rodrigo\source\repos\Arvore_Recursiva\Arvore_Recursiva\obj\Debug\Arvore_Recursiva.pdb
