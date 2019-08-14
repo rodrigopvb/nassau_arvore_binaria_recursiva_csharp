@@ -18,7 +18,7 @@ namespace Arvore_Recursiva
             int op, numero, achou;
             do
             {
-                Console.WriteLine("1 - Inserir na árvore");
+                
                 Console.WriteLine("2 - Consultar um nó da árvore");
                 Console.WriteLine("3 - Consultar toda a árvore em ordem");
                 Console.WriteLine("4 - Consultar toda a árvore em pré-ordem");
