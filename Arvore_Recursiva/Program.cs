@@ -25,7 +25,7 @@ namespace Arvore_Recursiva
                 Console.WriteLine("5 - Consultar toda a árvore em pós-ordem");
                 Console.WriteLine("6 - Excluir um nó da árvore");
                 Console.WriteLine("7 - Esvaziar árvore");
-                Console.WriteLine("8 - Sair");
+                Console.WriteLine("8 - Sair do programa");
                 op = int.Parse(Console.ReadLine());
 
                 switch (op)
